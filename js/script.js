@@ -1,3 +1,5 @@
+'use strict';
+
 function testVarLetConst() {
   // Цикл for виконається один раз
   for (let i = 0; i < 1; i++) {
