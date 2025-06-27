@@ -1,3 +1,5 @@
+'use strict';
+
 let users = [
   {
     "index": 0,
